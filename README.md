@@ -1,13 +1,29 @@
 # Keyboard75
+<img width="998" height="695" alt="Screenshot 2026-09-16 233355" src="https://github.com/user-attachments/assets/c123dae7-2937-4cee-b458-c0d36d3c33b0" />
 
-SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at the top for brightness controlee as well . It is based on rp2040 chip as it's MCU . SO I had to design the MCU circuit by myself as well . The PCB was designed on kicad and CAD was done on Fusion . firmware was written in VS-Code. Iy has a very compact design. The Keyboard also includes per switch LED and diodes to prevent ghosting. It connects to the PC via USB-C input .
+SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at the top for brightness controlee as well . It is based on rp2040 chip  . SO I had to design the MCU circuit by myself as well . The PCB was designed on kicad and CAD was done on Fusion . firmware was written in VS-Code. It has a very compact design. The Keyboard also includes per switch LED and diodes to prevent ghosting. It connects to the PC via USB-C input .
+
+## Features
+ - Based on Rp2040 chip
+ - had compact 75% keyboard layout
+ - Per Switch LED and diode for ghosting prevention
+ - USB-C Type for Connection
+ - Uplifted CAD Design for comfortable typing
+
+### Schematic<br><br>
+<img width="1145" height="487" alt="Screenshot 2026-09-17 152250" src="https://github.com/user-attachments/assets/29d6a225-76d8-4742-9a19-9c49ef642b64" />
+
+###  PCB Design<br><br>
+<img width="1145" height="478" alt="Screenshot 2026-09-17 010254" src="https://github.com/user-attachments/assets/7142dd1e-be23-40dc-8cad-d427951c3c95" />
+<img width="1428" height="595" alt="Screenshot 2026-09-14 191653" src="https://github.com/user-attachments/assets/c4afff5c-2307-4906-a571-6005fceb05f3" />
+
+### 3D Render <br><br>
+<img width="998" height="695" alt="Screenshot 2026-09-16 233355" src="https://github.com/user-attachments/assets/75386767-fe08-4e1e-bc64-4f97e4780715" />
+<img width="676" height="437" alt="Screenshot 2026-09-16 233434" src="https://github.com/user-attachments/assets/01c7b3e3-fad2-4b3a-b18d-bbaee34f60a0" />
 
 
 
-
-
-
-# Keyboard BOM
+##  BOM
 
 | Comment | Footprint | Quantity | Total Price ($) | Link |
 |---|---|---:|---:|---|
