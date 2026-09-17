@@ -1,4 +1,4 @@
-comment,footprint,description,quantity,total price,link
+Ghocomment,footprint,description,quantity,total price,link
 33pF,0603,33pF 50V C0G ±5% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,4,0.0236,https://jlcpcb.com/partdetail/2015-CL10C330JB8NNNC/C1663
 0.1uF,0603,100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,10,0.124,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
 100nf,0603,100nF 50V X7R ±10% 0603 Multilayer Ceramic Capacitors MLCC - SMD/SMT ROHS,10,0.124,https://jlcpcb.com/partdetail/YAGEO-CC0603KRX7R9BB104/C14663
@@ -16,3 +16,7 @@ PCBA Cost,,,,27.88,https://jlcpcb.com
 PCB Shipping,,,,14.03,https://jlcpcb.com
 Hot-swap ,,,90,6.75 ,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white
 Mechanical Switch ,,,90,21.1 ,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/
+KEY-CAPS ,,,1,11.5,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/side-engraved-keycap-set/?attribute_pa_pick-your-style=blackberry-side-printed
+0.1 uf Capacitor ,,Capacitors for Each LEDS,90,3.6,https://sharvielectronics.com/product/0-1uf-16v-capacitor-0603-smd-package/
+1N4007 Diodes ,,,for Ghosting protection,2.6,https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/
+
