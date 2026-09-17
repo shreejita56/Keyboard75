@@ -49,7 +49,7 @@ SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at 
 | 1N4007 Diodes | SOD-123FL | 90 | 2.60 | https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/ |
 | SK6812MINI-E | — | 90 | 8.10 | https://www.etstore.in/products/e9974?variant=48993209319675 |
 | Components Shipping | — | 1 | 3.30 | https://www.etstore.in/ |
-| **TOTAL** | — | — | **$124.67** | — |
+| **TOTAL** | — | — | **$132.67** | — |
 
 
 
