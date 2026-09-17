@@ -39,7 +39,7 @@ SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at 
 | 10K | 0603 | 4 | 0.0108 | https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804 |
 | RP2040 | QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm | 2 | 1.979 | https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040 |
 | 12MHz | Crystal_SMD_3225-4Pin_3.2x2.5mm | 5 | 2.14 | https://jlcpcb.com/partdetail/KDSDaishinku-DSX321G12MHz/C93234 |
-| PCB Cost | — | 1 | 22.80 | https://jlcpcb.com |
+| PCB + 3D Prints Cost | — | 1 | 30.80 | https://jlcpcb.com |
 | PCBA Cost | — | 1 | 27.88 | https://jlcpcb.com |
 | PCB Shipping | — | 1 | 14.03 | https://jlcpcb.com |
 | Hot-swap | — | 90 | 6.75 | https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white |
