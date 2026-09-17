@@ -18,5 +18,6 @@ Hot-swap ,,,90,6.75 ,https://meckeys.com/shop/accessories/keyboard-accessories/k
 Mechanical Switch ,,,90,21.1 ,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/akko-v3-pro-cream-black-switch/
 KEY-CAPS ,,,1,11.5,https://meckeys.com/shop/accessories/keyboard-accessories/keycaps/side-engraved-keycap-set/?attribute_pa_pick-your-style=blackberry-side-printed
 0.1 uf Capacitor ,,Capacitors for Each LEDS,90,3.6,https://sharvielectronics.com/product/0-1uf-16v-capacitor-0603-smd-package/
-1N4007 Diodes ,,,for Ghosting protection,2.6,https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/
-
+1N4007 Diodes ,, for ghosting protection ,90,2.6,https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/
+SK6812MINI-E,,LEDS,90,8.1,https://www.etstore.in/products/e9974?variant=48993209319675
+Components shipping (from all the three websites except jlcpcb),,,,3.3,www.etstore.in / https://sharvielectronics.com / https://meckeys.com
