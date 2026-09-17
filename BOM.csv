@@ -11,7 +11,7 @@ USB_C_Receptacle_USB2.0_16P,USB_C_Receptacle_G-Switch_GT-USB-7010ASV,"-25℃~+85
 10K,0603,-55℃~+155℃ 100mW 10kΩ 75V Thick Film Resistor ±1% ±100ppm/℃ 0603 Chip Resistor - Surface Mount ROHS,4,0.0108,https://jlcpcb.com/partdetail/26547-0603WAF1002T5E/C25804
 RP2040,QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm,12bit 133MHz 30 LQFN-56(7x7) Microcontrollers (MCU/MPU/SOC) ROHS,2,1.979,https://jlcpcb.com/partdetail/RaspberryPi-RP2040/C2040
 12MHz,Crystal_SMD_3225-4Pin_3.2x2.5mm,Crystal Oscillator SMD3225-4P Crystals ROHS,5,2.14,https://jlcpcb.com/partdetail/KDSDaishinku-DSX321G12MHz/C93234
-PCB Cost,,,,22.8,https://jlcpcb.com
+PCB + 3D Prints Cost,,,,30.8,https://jlcpcb.com
 PCBA Cost,,,,27.88,https://jlcpcb.com
 PCB Shipping,,,,14.03,https://jlcpcb.com
 Hot-swap ,,,90,6.75 ,https://meckeys.com/shop/accessories/keyboard-accessories/key-switches/kailh-hot-swap-socket/?attribute_pa_variations=white
@@ -21,4 +21,4 @@ KEY-CAPS ,,,1,11.5,https://meckeys.com/shop/accessories/keyboard-accessories/key
 1N4007 Diodes ,, for ghosting protection ,90,2.6,https://sharvielectronics.com/product/a7-1n4007-100v-1a-silicon-rectifier-diode-sod-123fl-smd-package/
 SK6812MINI-E,,LEDS,90,8.1,https://www.etstore.in/products/e9974?variant=48993209319675
 Components shipping (from all the three websites except jlcpcb),,,,3.3,www.etstore.in / https://sharvielectronics.com / https://meckeys.com
-Total,,,,$124.67,
+Total,,,,$132.67,
