@@ -1,5 +1,7 @@
 # Keyboard75
 
+SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at the top for brightness controlee as well . It is based on rp2040 chip as it's MCU . SO I had to design the MCU circuit by myself as well . The PCB was designed on kicad and CAD was done on Fusion . firmware was written in VS-Code. Iy has a very compact design. The Keyboard also includes per switch LED and diodes to prevent ghosting. It connects to the PC via USB-C input .
+
 
 
 
