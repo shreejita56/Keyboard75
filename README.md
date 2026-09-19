@@ -10,18 +10,6 @@ SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at 
  - USB-C Type for Connection
  - Uplifted CAD Design for comfortable typing
 
-### Schematic<br><br>
-<img width="1145" height="487" alt="Screenshot 2026-09-17 152250" src="https://github.com/user-attachments/assets/29d6a225-76d8-4742-9a19-9c49ef642b64" />
-
-###  PCB Design<br><br>
-<img width="1145" height="478" alt="Screenshot 2026-09-17 010254" src="https://github.com/user-attachments/assets/7142dd1e-be23-40dc-8cad-d427951c3c95" />
-<img width="1428" height="595" alt="Screenshot 2026-09-14 191653" src="https://github.com/user-attachments/assets/c4afff5c-2307-4906-a571-6005fceb05f3" />
-
-### 3D Render <br><br>
-<img width="998" height="695" alt="Screenshot 2026-09-16 233355" src="https://github.com/user-attachments/assets/75386767-fe08-4e1e-bc64-4f97e4780715" />
-<img width="676" height="437" alt="Screenshot 2026-09-16 233434" src="https://github.com/user-attachments/assets/01c7b3e3-fad2-4b3a-b18d-bbaee34f60a0" />
-
-
 
 ##  BOM
 
@@ -50,6 +38,22 @@ SO I made a custom 75 % layout Mechanical keyboard which has a rotor encoder at 
 | SK6812MINI-E | — | 90 | 8.10 | https://www.etstore.in/products/e9974?variant=48993209319675 |
 | Components Shipping | — | 1 | 3.30 | https://www.etstore.in/ |
 | **TOTAL** | — | — | **$132.67** | — |
+
+
+### Schematic<br><br>
+<img width="1145" height="487" alt="Screenshot 2026-09-17 152250" src="https://github.com/user-attachments/assets/29d6a225-76d8-4742-9a19-9c49ef642b64" />
+
+###  PCB Design<br><br>
+<img width="1145" height="478" alt="Screenshot 2026-09-17 010254" src="https://github.com/user-attachments/assets/7142dd1e-be23-40dc-8cad-d427951c3c95" />
+<img width="1428" height="595" alt="Screenshot 2026-09-14 191653" src="https://github.com/user-attachments/assets/c4afff5c-2307-4906-a571-6005fceb05f3" />
+
+### 3D Render <br><br>
+<img width="998" height="695" alt="Screenshot 2026-09-16 233355" src="https://github.com/user-attachments/assets/75386767-fe08-4e1e-bc64-4f97e4780715" />
+<img width="676" height="437" alt="Screenshot 2026-09-16 233434" src="https://github.com/user-attachments/assets/01c7b3e3-fad2-4b3a-b18d-bbaee34f60a0" />
+
+
+
+
 
 
 
